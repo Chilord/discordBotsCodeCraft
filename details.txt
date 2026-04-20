@@ -1,0 +1,39 @@
+This file contains official information about CodeCraft.
+
+--- GENERAL INFO ---
+Name: CodeCraft
+Duration: 12 weeks
+Class Frequency: Once per week
+Time: Saturdays, 8:00 AM - 9:00 AM (WAT)
+Fee: NGN 10,000
+
+--- PLATFORM ---
+Classes are conducted via Google Meet.
+
+Meeting links are posted in the #meeting-plans Discord channel before each class.
+
+Students gain access to the Discord community after payment confirmation.
+Upon successful payment:
+- A Discord invite link is sent
+- A unique "member key" is issued to the student
+
+All students must join Discord and log in before participating in classes.
+
+--- DEVICES ---
+Students are advised to use:
+- Laptop (recommended)
+- Tablet (a bit acceptable)
+- Phone (allowed but not ideal for coding activities)
+
+--- RECORDINGS ---
+Lecture recordings are available on the CodeCraft website.
+
+Access rules:
+- Only paid members can access the website
+- Member key is required for login
+
+--- ASSIGNMENTS ---
+Assignments are posted in the #announcements Discord channel when due.
+
+--- SUMMARY DISTRIBUTION ---
+After each class, a summary is shared in the official CodeCraft WhatsApp group.
